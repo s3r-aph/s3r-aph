@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @s3r-aph
+- 👀 I’m interested in Binary Exploitation
+- 🌱 I’m currently studying at College (UK) and excited for UNI
